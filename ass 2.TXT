@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <table border="1" cellspacing="0" cellpadding="10px">
+       <thead>
+           <tr>
+               <td>name</td>
+               <td>subject</td>
+               <td>city</td>
+               <td>mark</td>
+           </tr>
+       </thead>
+       <tbody>
+           <tr>
+               <td>vinodha</td>
+               <td>maths</td>
+               <td>salem</td>
+               <td>80</td>
+           </tr>
+           <tr>
+               <td>subhi</td>
+               <td>science</td>
+               <td>trichy</td>
+               <td>95</td>
+           </tr>
+           <tr>
+               <td>kathiga</td>
+               <td>tamil</td>
+               <td>chennai</td>
+               <td>90</td>
+           </tr>
+       </tbody>
+   </table>
+   <br></br>
+   <form>
+       <input type="text" placeholder="enter name" required/>
+       dob<input type="date" required/>
+       <input type="text" placeholder="enter city" required/>
+       <input type="submit"/>
+
+   </form>
+</head>
+<body>
+    
+</body>
+</html>
